@@ -1,0 +1,36 @@
+p {
+    font-size: 0.75rem;
+    font-style: italic;
+  }
+
+.studycontainer {
+    display: flex;
+    justify-content: space-around;
+    margin: 1em;
+    flex-wrap: wrap;
+}
+
+.studybox {
+    background-color: rgba(186, 199, 208, 0.8);
+    border-radius: 10% 25%;
+    -webkit-border-radius: 10% 25%;
+    -moz-border-radius: 10% 25%;
+    -ms-border-radius: 10% 25%;
+    -o-border-radius: 10% 25%;
+    margin: 1em;
+    width: 20em;
+    height: auto;
+    overflow: auto;
+}
+
+.studybox h2 {
+    padding: 1em 0 0.25em;
+}
+
+.studybox h3,p {
+    padding: 0.25em;
+}
+
+.studybox p {
+    padding: 0.25em 0 1em;
+}
