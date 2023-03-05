@@ -1,0 +1,24 @@
+h1 {
+    margin: 0 0 0.5em;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+}
+
+.overlay {
+    margin: 1em;
+    width: 60%;
+    height: auto;
+    overflow: auto;
+    align-items: center;
+}
+
+form {
+   text-align: center;
+}
+
+label, input {
+    margin: 0.5em;
+}
