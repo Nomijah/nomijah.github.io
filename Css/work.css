@@ -70,6 +70,16 @@
     -o-border-radius: 10%;
 }
 
+@media screen and (min-width: 800px) {
+    .item1b.textbox, .item2b.textbox, .item3b.textbox, .item4b.textbox {
+        border-radius: 10% 20%;
+        -webkit-border-radius: 10% 20%;
+        -moz-border-radius: 10% 20%;
+        -ms-border-radius: 10% 20%;
+        -o-border-radius: 10% 20%;
+    }
+}
+
 @media screen and (max-width: 700px) {
 
     .container {

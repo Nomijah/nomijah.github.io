@@ -7,11 +7,11 @@
 
 .portfoliobox {
     background-color: rgba(186, 199, 208, 0.8);
-    border-radius: 20%;
-    -webkit-border-radius: 20%;
-    -moz-border-radius: 20%;
-    -ms-border-radius: 20%;
-    -o-border-radius: 20%;
+    border-radius: 12% 20%;
+    -webkit-border-radius: 12% 20%;
+    -moz-border-radius: 12% 20%;
+    -ms-border-radius: 12% 20%;
+    -o-border-radius: 12% 20%;
     margin: 2em;
     width: 25em;
     height: auto;
