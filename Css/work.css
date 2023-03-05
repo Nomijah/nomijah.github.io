@@ -1,0 +1,93 @@
+.container {
+    display: grid;
+    grid-template-columns: 12.5% 25% 25% 25% 12.5%;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    ". job1a job1b job1b ."
+    ". job2b job2b job2a ."
+    ". job3a job3b job3b ."
+    ". job4b job4b job4a .";
+}
+
+.item1a {
+    grid-area: job1a;
+}
+
+.item1b {
+    grid-area: job1b;
+}
+
+.item2a {
+    grid-area: job2a;
+}
+
+.item2b {
+    grid-area: job2b;
+}
+
+.item3a {
+    grid-area: job3a;
+}
+
+.item3b {
+    grid-area: job3b;
+}
+
+.item4a {
+    grid-area: job4a;
+}
+
+.item4b {
+    grid-area: job4b;
+}
+
+.container div {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+    margin: 1em;
+    justify-content: center;
+    background-color: rgba(196, 207, 211, 0.8);
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+
+.container p {
+    margin: 1em 1em;
+}
+
+
+.container div img {
+    width: 100%;
+    height: auto;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+
+@media screen and (max-width: 700px) {
+
+    .container {
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "job1a" "job1b" "job2a" "job2b" "job3a" "job3b" "job4a" "job4b";
+    }
+
+    .container div {
+        align-items: center;
+    }
+
+    .container div img {
+        height: 90%;
+        margin: 1em;
+    }
+}

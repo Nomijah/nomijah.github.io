@@ -1,0 +1,54 @@
+/* SCSS RGB 
+$french-gray: rgba(177, 184, 202, 1);
+$french-gray-2: rgba(186, 199, 208, 1);
+$eggshell: rgba(242, 233, 216, 1);
+$cool-gray: rgba(162, 157, 192, 1);
+$silver: rgba(196, 207, 211, 1); */
+
+#portrait {
+    margin: 2rem;
+    width: 20em;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+}
+
+.box_group {
+
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+background: linear-gradient(180deg, rgba(196, 207, 211,0) 0%,rgba(196, 207, 211,0.2) 5%, rgba(196, 207, 211,0.5) 10%, rgba(196, 207, 211,0.7) 20%, rgba(196, 207, 211,0.7) 80%, rgba(196, 207, 211,0.5) 90%, rgba(196, 207, 211,0.2) 95%, rgba(196, 207, 211,0) 100%);
+}
+
+.box_group div {
+    margin: 1rem;
+    align-self: center;
+}
+
+
+@media screen and (max-width: 700px) and (min-width: 50px) {
+    .box_group {
+        justify-content: space-around;
+        flex-direction: column;
+        background: none;
+    }
+
+    .box_group div {
+        margin: 0.1em;
+        justify-content: center;
+    }
+
+    #homepres {
+        margin: 2em 0em 0em;
+    }
+
+    #portrait {
+        width: 80vw;
+
+        margin: 1em;
+    }
+
+}
