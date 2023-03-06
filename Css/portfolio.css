@@ -31,13 +31,16 @@
     text-decoration: none;
 }
 
+h2 {
+  transition: 300ms;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+
 .textbox a :hover {
-    transition: 300ms;
     font-size: 1.7em;
-    -webkit-transition: 300ms;
-    -moz-transition: 300ms;
-    -ms-transition: 300ms;
-    -o-transition: 300ms;
 }
 
 p {
