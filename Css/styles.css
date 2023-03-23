@@ -125,6 +125,16 @@ footer {
 align-self: center;
 }
 
+.loading {
+  display: flex;
+  justify-content: center;
+}
+
+.loading p {
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
 @media screen and (max-width: 850px) {
   li a {
     padding: 0.75em 0.5em 1em;

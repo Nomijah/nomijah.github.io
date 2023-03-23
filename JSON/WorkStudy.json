@@ -1,0 +1,121 @@
+{
+  "jobb": [
+    {
+      "workplace": "Egenföretagare, Five Keys Media Production",
+      "time": "jun 2007 - ff",
+      "description": "Musik-, foto- och filmproduktion"
+    },
+    {
+      "workplace": "Partille Gymnasium, Partille",
+      "time": "aug 2017 – jun 2022",
+      "description": "Musiklärare, deltid"
+    },
+    {
+      "workplace": "Kulturskolan Varberg, Varberg",
+      "time": "aug 2018 – dec 2018",
+      "description": "Pianolärare, vikariat deltid"
+    },
+    {
+      "workplace": "Partille Kulturskola, Partille",
+      "time": "okt 2016 – jun 2018",
+      "description": "Pianolärare, deltid"
+    },
+    {
+      "workplace": "Andreasson Musik, Göteborg",
+      "time": "jun 2016 – nov 2016",
+      "description": "Säljare, deltid"
+    },
+    {
+      "workplace": "Partille Kulturskola, Partille",
+      "time": "jan 2016 – jun 2016",
+      "description": "Piano-, ensemble- och musikproduktionslärare, vikariat deltid"
+    },
+    {
+      "workplace": "Jobtip Services AB, Göteborg",
+      "time": "aug 2015 – nov 2015",
+      "description": "Account Manager, heltid"
+    },
+    {
+      "workplace": "Kontentan Förlags AB, Göteborg",
+      "time": "jan 2015 – aug 2015",
+      "description": "Account manager, heltid"
+    },
+    {
+      "workplace": "Kjell & Company, Göteborg",
+      "time": "jun 2012 – jan 2015",
+      "description": "Butikssäljare, heltid."
+    },
+    {
+      "workplace": "Kjell & Company, Malmö",
+      "time": "feb 2012 – jun 2012",
+      "description": "Butikssäljare, timanställning."
+    },
+    {
+      "workplace": "Student Consulting, Malmö",
+      "time": "feb 2011 – mar 2012",
+      "description": "Timanställning, BMW centrallager."
+    },
+    {
+      "workplace": "Music Factory, Skara",
+      "time": "sommar 2009,-10 o -12",
+      "description": "Ledare på musikkollo. Ansvarig för inspelning och ljudteknik."
+    },
+    {
+      "workplace": "Scan, Skara",
+      "time": "sommar 2008 ",
+      "description": "Sommarjobb på kyl- och fryslager, nattskift."
+    },
+    {
+      "workplace": "Hotell Lysekil",
+      "time": "juli 2007 – aug 2007 ",
+      "description": "Musikalisk underhållning sex kvällar i veckan under högsäsongen."
+    },
+    {
+      "workplace": "WSI, Ljungskile (reklamgrossist) ",
+      "time": "aug 2005 – jun 2007",
+      "description": "Timanställning, lagerarbete."
+    },
+    {
+      "workplace": "Ica Nära Flamman, Linköping",
+      "time": "aug 2003 – aug 2005 ",
+      "description": "Timanställning, kassabiträde."
+    }
+  ],
+  "plugg": [
+    {
+      "school": "Campus Varberg",
+      "time": "sep 2022 - ff",
+      "description": "Systemutveckling .NET (400 YH-poäng)"
+    },
+    {
+      "school": "Musikhögskolan i Malmö",
+      "time": "aug 2010 – jun 2012",
+      "description": "Musikproduktion (60 hp). "
+    },
+    {
+      "school": "Musikhögskolan i Malmö",
+      "time": "aug 2009 – jun 2010",
+      "description": "Instrument- och ensemblelärare, rocksång."
+    },
+    {
+      "school": "Högskolan i Skövde",
+      "time": "aug 2007 – jun 2009",
+      "description": "Musik- och ljudproduktion (120 hp) "
+    },
+    {
+      "school": "Ljungskile folkhögskola",
+      "time": "aug 2005 – jun 2007",
+      "description": "Jazzlinjen, piano."
+    },
+    {
+      "school": "Linköpings universitet",
+      "time": "aug 2004 – jan 2005",
+      "description": "Engelska 1 (30 hp)"
+    },
+    {
+      "school": "Folkungskolan i Linköping",
+      "time": "aug 2001 – jun 2004 ",
+      "description": "Estetiska programmet musik och kompletterande kurser utöver programmet."
+    }
+  ]
+}

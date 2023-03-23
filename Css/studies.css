@@ -25,10 +25,10 @@ p {
 }
 
 .studybox h2 {
-    padding: 1em 0 0.25em;
+    padding: 1em 0.5em 0.25em;
 }
 
-.studybox h3,p {
+.studybox h3 {
     padding: 0.25em;
 }
 
