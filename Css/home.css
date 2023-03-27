@@ -47,6 +47,31 @@ background: linear-gradient(180deg, rgba(196, 207, 211,0) 0%,rgba(196, 207, 211,
 
 }
 
+/* The Modal (background) */
+.modal {
+    display: none;/*Hiddenbydefault*/
+    position: fixed;/*Stayinplace*/
+    z-index: 1;/*Sitontop*/
+    left: 0;
+    top: 0;
+    width: 100%;/*Fullwidth*/
+    height: 100%;/*Fullheight*/
+    overflow: auto;/*Enablescrollifneeded*/
+    background-color: rgb(0,0,0);/*Fallbackcolor*/
+    background-color: rgba(0,0,0,0.4);/*Blackw/opacity*/
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    display: flex;
+    flex-direction: column;
+    background-color: #acbadd;
+    margin: 5% auto; /*15%fromthetopandcentered*/
+    padding: 1em;
+    border: 1px solid #888;
+    width: 20%;
+  }
+
 @keyframes color-change {
     25% { color: red;}
     50% {color: blue;}
